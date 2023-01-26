@@ -1,4 +1,6 @@
-# Goal
+# Camera Calibration (OpenCV Example)
+
+## Goal
 
 In this section, we will learn about
 
@@ -6,7 +8,7 @@ In this section, we will learn about
 - how to find the intrinsic and extrinsic properties of a camera
 - how to undistort images based off these properties
 
-# Basics
+## Basics
 
 Some pinhole cameras introduce significant distortion to images. Two major kinds of distortion are radial distortion and tangential distortion.
 
